@@ -39,5 +39,5 @@ Rate limiting is applicable to all discord users and will be escalated further i
 <br>
 `wiki` returns info from input. (Application content);<br>
 <br>
-`ping` returns bot's Latency.<br>;
+`ping` returns bot's Latency.;<br>
 
